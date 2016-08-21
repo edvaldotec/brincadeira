@@ -20,6 +20,12 @@ Ir pra página do fork e pegar a url para clonar
 	$ git add remote upstream url_upstream
 ```
 
+* Verificar origin e upstream
+
+```bash
+	$ git remote -v
+```
+
 * Editar os arquivos
 
 ```bash
