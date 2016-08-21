@@ -8,5 +8,6 @@ Ir pra página do fork e pegar a url para clonar
 
 * Clonar:
 
+```bash
 $ git clone url
-
+```
