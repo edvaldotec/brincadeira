@@ -39,8 +39,15 @@ Ir pra página do fork e pegar a url para clonar
 	$ git rebase upstream/master
 ```
 
+* Testar que tudo está funcionando certinho
+
 * Enviar pro fork
 
 ```bash
 	$ git push origin master
 ```
+
+* Solicitar o Pull Request na página do fork
+
+* Repetir o processo até o mundo acabar
+
