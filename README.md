@@ -64,3 +64,6 @@ Ir pra página do fork e pegar a url para clonar
 
 * Repetir o processo até o mundo acabar
 
+* git reset head nome_arquivo"
+
+* git rm "nome do arquvio" para apagar 
