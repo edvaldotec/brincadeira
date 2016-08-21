@@ -14,6 +14,12 @@ Ir pra página do fork e pegar a url para clonar
 
 > Entrar na pasta do repositório
 
+* Configurar o Upstream:
+
+```bash
+	$ git add remote upstream url_upstream
+```
+
 * Editar os arquivos
 
 ```bash
@@ -25,12 +31,6 @@ Ir pra página do fork e pegar a url para clonar
 ```
 
 > Repetir até ficar pronto
-
-* Configurar o Upstream:
-
-```bash
-	$ git add remote upstream url_upstream
-```
 
 * Trazer mudanças do Upstream:
 
