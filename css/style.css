@@ -1,12 +1,12 @@
 body{
-    text-indent: 10px;
-    text-align: justify;
+	text-indent: 10px;
+	text-align: justify;
 	background-color: #b3d1ff;
 }
 
 section{
-    display: block;
-    float: left; 
+	display: block;
+	float: left; 
 }
 
 aside{
