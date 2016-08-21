@@ -17,7 +17,7 @@ Ir pra página do fork e pegar a url para clonar
 * Configurar o Upstream:
 
 ```bash
-	$ git add remote upstream url_upstream
+	$ git remote add upstream url_upstream
 ```
 
 * Verificar origin e upstream
