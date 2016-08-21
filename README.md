@@ -12,9 +12,9 @@ Ir pra página do fork e pegar a url para clonar
 	$ git clone url_fork
 ```
 
-Entrar na pasta do repositório
+> Entrar na pasta do repositório
 
-Editar os arquivos
+* Editar os arquivos
 
 ```bash
 	$ git status
@@ -24,7 +24,7 @@ Editar os arquivos
 	$ git status
 ```
 
-Repetir até ficar pronto
+> Repetir até ficar pronto
 
 * Configurar o Upstream:
 
