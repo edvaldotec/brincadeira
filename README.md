@@ -11,3 +11,7 @@ Ir pra página do fork e pegar a url para clonar
 ```bash
 $ git clone url
 ```
+
+Entrar na pasta do repositório
+
+
