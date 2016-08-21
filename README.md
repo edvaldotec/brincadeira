@@ -40,6 +40,9 @@ Ir pra página do fork e pegar a url para clonar
 	$ git status
 ```
 
+> Para sair do modo edição do commit, no Vim: ESC e logo ":wq"; no Nano:
+> Ctrl-X
+
 > Repetir até ficar pronto
 
 * Trazer mudanças do Upstream:
