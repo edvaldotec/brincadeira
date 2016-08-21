@@ -2,11 +2,11 @@
 
 ## Como brincar com esse repositório:
 
-> Criar um fork
+Criar um fork
 
-> Ir pra página do fork e pegar a url para clonar
+Ir pra página do fork e pegar a url para clonar
 
-> Clonar:
+Clonar:
 
-> $ git clone <url>
+$ git clone url
 
